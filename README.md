@@ -1,4 +1,4 @@
 datasciencecoursera
 ===================
 
-A course project of Data Science on Courera
+This is a course project of Data Science on Courera
